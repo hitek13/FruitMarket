@@ -1,0 +1,11 @@
+C:\Users\Miguel\source\repos\FruitMarket\FruitMarket\bin\Debug\netcoreapp3.0\FruitMarket.exe
+C:\Users\Miguel\source\repos\FruitMarket\FruitMarket\bin\Debug\netcoreapp3.0\FruitMarket.deps.json
+C:\Users\Miguel\source\repos\FruitMarket\FruitMarket\bin\Debug\netcoreapp3.0\FruitMarket.runtimeconfig.json
+C:\Users\Miguel\source\repos\FruitMarket\FruitMarket\bin\Debug\netcoreapp3.0\FruitMarket.runtimeconfig.dev.json
+C:\Users\Miguel\source\repos\FruitMarket\FruitMarket\bin\Debug\netcoreapp3.0\FruitMarket.dll
+C:\Users\Miguel\source\repos\FruitMarket\FruitMarket\bin\Debug\netcoreapp3.0\FruitMarket.pdb
+C:\Users\Miguel\source\repos\FruitMarket\FruitMarket\obj\Debug\netcoreapp3.0\FruitMarket.csprojAssemblyReference.cache
+C:\Users\Miguel\source\repos\FruitMarket\FruitMarket\obj\Debug\netcoreapp3.0\FruitMarket.AssemblyInfoInputs.cache
+C:\Users\Miguel\source\repos\FruitMarket\FruitMarket\obj\Debug\netcoreapp3.0\FruitMarket.AssemblyInfo.cs
+C:\Users\Miguel\source\repos\FruitMarket\FruitMarket\obj\Debug\netcoreapp3.0\FruitMarket.dll
+C:\Users\Miguel\source\repos\FruitMarket\FruitMarket\obj\Debug\netcoreapp3.0\FruitMarket.pdb
